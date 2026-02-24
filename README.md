@@ -25,24 +25,25 @@ A simple Queue Management System built with **React** that allows users to manag
 
 ## 📂 Project Structure
 
-src/
-│
-├── App.js
-├── components/
-│ ├── QueueForm.js
-│ └── QueueDisplay.js
-│
-└── App.css
-
+```
+    src/
+    │
+    ├── App.js
+    ├── components/
+    │       ├── QueueForm.js
+    │       └── QueueDisplay.js
+    └── App.css
+```
 ---
 
 ▶️ Getting Started
 
-1️⃣ Clone the repository
+1. Clone the repository:
 
-    ```bash
-        git clone https://github.com/techparth7/queue-management-system.git
-    ```
+   ```bash
+    git clone https://github.com/techparth7/queue-management-system.git
+   ```
+
 
 2️⃣ Navigate to the project directory
 
