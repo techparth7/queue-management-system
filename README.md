@@ -47,24 +47,24 @@ A simple Queue Management System built with **React** that allows users to manag
 
 2️⃣ Navigate to the project directory
 
-    ```bash
-        cd queue-management-system
-    ```
+   ```bash
+    cd queue-management-system
+   ```
 
 3️⃣ Install dependencies
 
-    ```bash
+   ```bash
     npm install
-    ```
+   ```
 
 4️⃣ Run the application
 
-    ```bash
+   ```bash
     npm start
-    ```
+   ```
 
 The app will be available at:
 
-    ```bash
+   ```bash
     http://localhost:5137
-    ```
+   ```
