@@ -38,7 +38,7 @@ A simple Queue Management System built with **React** that allows users to manag
 
 ▶️ Getting Started
 
-1. Clone the repository:
+1️⃣ Clone the Repository
 
    ```bash
     git clone https://github.com/techparth7/queue-management-system.git
